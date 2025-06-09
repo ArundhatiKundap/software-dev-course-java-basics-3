@@ -28,7 +28,7 @@ public class ConditionalExercises {
     public boolean isValidPassword(String password) {
         int passwordLength = password.length();
 
-        // Replace the line below with code that returns true if password is at least 8 characters long
+        // Replace  the line below with code that returns true if password is at least 8 characters long
         // and false otherwise
         // (use an if statement with an else block.)
         if(passwordLength >=8){
